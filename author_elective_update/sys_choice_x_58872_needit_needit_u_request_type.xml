@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_request_type" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_request_type</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2020-08-16 16:14:01</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>0db1321cdb6873800b9d21c405961982</instance_id>
+        <instance_name>dev77657</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_request_type</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_request_type" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_request_type</element><name>x_58872_needit_needit</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2020-08-16 16:14:01</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1673447142</payload_hash>
+        <record_name>NeedIt.Request type</record_name>
+        <reverted_from/>
+        <source>cc6712792f2e5010d97559372799b6b6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>veeravenkata.chundru@cgi.com</sys_created_by>
+        <sys_created_on>2020-08-16 16:14:01</sys_created_on>
+        <sys_id>0f3b89ef2f265010d97559372799b620</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173f80c956a0000001</sys_recorded_at>
+        <sys_updated_by>veeravenkata.chundru@cgi.com</sys_updated_by>
+        <sys_updated_on>2020-08-16 16:14:01</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>873b89ef4f2650101ae357543a8be320</update_guid>
+        <update_guid_history>873b89ef4f2650101ae357543a8be320:1673447142,cf3b89efd12650105fc31d78c00a491c:-1701966180,cb3b89efe426501091f3455df89a4619:736548692,c73b89ef9326501026d1379a826e8c16:833312879,1023c89b6f261010390148b6bcc8d5aa:0,4fb1c05b3b261010fcfe00cf96538f31:1673447142,87b1c05bdb261010b173417bc3b3322e:-1701966180,83b1c05bb5261010ff12e3adca524f2b:736548692,4fb1c05bd226101048f90e8c36fd1327:833312879,451f7607fc62101061286681ace67045:0,3ce0720beb2210106b639257e2543539:-864324575,3ce0720b2c221010409f2c6b09342535:-1701966180,78e0720be3221010e04743475dc6b632:736548692,b4e0720b98221010c56246ce7f044e2f:833312879,f8d0bac779221010424ec90caa931f40:0,74d0bac77a22101092491948e16e5619:833312879</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>veeravenkata.chundru@cgi.com</sys_created_by>
+        <sys_created_on>2020-08-16 16:14:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>bb3bc9ef2f265010d97559372799b671</sys_id>
+        <sys_metadata>bb3bc9ef2f265010d97559372799b671</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_request_type</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_request_type</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_request_type">0f3b89ef2f265010d97559372799b620</sys_update_version>
+        <sys_updated_by>veeravenkata.chundru@cgi.com</sys_updated_by>
+        <sys_updated_on>2020-08-16 16:14:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
